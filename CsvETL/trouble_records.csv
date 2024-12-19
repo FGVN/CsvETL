@@ -1,0 +1,1029 @@
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1856579
+   Row: 18807
+   RawRow: 18807
+   Count: 18
+   RawRecord:
+,07/04/2020 09:22:00 PM,07/04/2020 09:37:00 PM,,3.03,,,116,74,,21.95,0,0.5,2.75,0,0.3,25.5,0
+
+, Record: ,07/04/2020 09:22:00 PM,07/04/2020 09:37:00 PM,,3.03,,,116,74,,21.95,0,0.5,2.75,0,0.3,25.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1887990
+   Row: 19126
+   RawRow: 19126
+   Count: 18
+   RawRecord:
+,07/04/2020 09:06:00 PM,07/04/2020 09:09:00 PM,,1,,,48,48,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+, Record: ,07/04/2020 09:06:00 PM,07/04/2020 09:09:00 PM,,1,,,48,48,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1942013
+   Row: 19674
+   RawRow: 19674
+   Count: 18
+   RawRecord:
+,07/04/2020 09:54:00 PM,07/04/2020 10:07:00 PM,,2.62,,,137,145,,8.3,0,0.5,4.28,6.12,0.3,22,2.5
+
+, Record: ,07/04/2020 09:54:00 PM,07/04/2020 10:07:00 PM,,2.62,,,137,145,,8.3,0,0.5,4.28,6.12,0.3,22,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1951021
+   Row: 19765
+   RawRow: 19765
+   Count: 18
+   RawRecord:
+,07/04/2020 09:37:00 PM,07/04/2020 10:04:00 PM,,6.61,,,231,36,,32.45,0,0.5,2.75,0,0.3,36,0
+
+, Record: ,07/04/2020 09:37:00 PM,07/04/2020 10:04:00 PM,,6.61,,,231,36,,32.45,0,0.5,2.75,0,0.3,36,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1964652
+   Row: 19903
+   RawRow: 19903
+   Count: 18
+   RawRecord:
+,07/04/2020 09:11:00 PM,07/04/2020 09:23:00 PM,,4.75,,,208,147,,25.45,0,0.5,2.75,0,0.3,29,0
+
+, Record: ,07/04/2020 09:11:00 PM,07/04/2020 09:23:00 PM,,4.75,,,208,147,,25.45,0,0.5,2.75,0,0.3,29,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 1978169
+   Row: 20040
+   RawRow: 20040
+   Count: 18
+   RawRecord:
+,07/04/2020 09:26:00 PM,07/04/2020 09:45:00 PM,,2.83,,,147,235,,25.45,0,0.5,2.75,0,0.3,29,0
+
+, Record: ,07/04/2020 09:26:00 PM,07/04/2020 09:45:00 PM,,2.83,,,147,235,,25.45,0,0.5,2.75,0,0.3,29,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2018675
+   Row: 20451
+   RawRow: 20451
+   Count: 18
+   RawRecord:
+,07/04/2020 09:15:05 PM,07/04/2020 09:39:18 PM,,0,,,41,246,,19.2,0.5,0.5,2.3,0,0.3,27.3,2.5
+
+, Record: ,07/04/2020 09:15:05 PM,07/04/2020 09:39:18 PM,,0,,,41,246,,19.2,0.5,0.5,2.3,0,0.3,27.3,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2023193
+   Row: 20497
+   RawRow: 20497
+   Count: 18
+   RawRecord:
+,07/04/2020 09:20:00 PM,07/04/2020 10:06:00 PM,,19.62,,,170,55,,45.6,0,0.5,2.75,0,0.3,49.15,0
+
+, Record: ,07/04/2020 09:20:00 PM,07/04/2020 10:06:00 PM,,19.62,,,170,55,,45.6,0,0.5,2.75,0,0.3,49.15,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2086191
+   Row: 21132
+   RawRow: 21132
+   Count: 18
+   RawRecord:
+,07/04/2020 09:49:00 PM,07/04/2020 10:24:00 PM,,19.37,,,35,119,,40.45,0,0.5,2.75,6.12,0.3,50.12,0
+
+, Record: ,07/04/2020 09:49:00 PM,07/04/2020 10:24:00 PM,,19.37,,,35,119,,40.45,0,0.5,2.75,6.12,0.3,50.12,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2117669
+   Row: 21450
+   RawRow: 21450
+   Count: 18
+   RawRecord:
+,07/04/2020 09:50:53 PM,07/04/2020 10:41:59 PM,,27.94,,,159,206,,66.35,0,0.5,0,18.36,0.3,85.51,0
+
+, Record: ,07/04/2020 09:50:53 PM,07/04/2020 10:41:59 PM,,27.94,,,159,206,,66.35,0,0.5,0,18.36,0.3,85.51,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2122198
+   Row: 21496
+   RawRow: 21496
+   Count: 18
+   RawRecord:
+,07/04/2020 09:27:00 PM,07/04/2020 09:45:00 PM,,6.71,,,74,145,,18.32,0,0.5,1,0,0.3,22.62,2.5
+
+, Record: ,07/04/2020 09:27:00 PM,07/04/2020 09:45:00 PM,,6.71,,,74,145,,18.32,0,0.5,1,0,0.3,22.62,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2140092
+   Row: 21677
+   RawRow: 21677
+   Count: 18
+   RawRecord:
+,07/04/2020 09:38:00 PM,07/04/2020 09:55:00 PM,,4.54,,,4,49,,28.95,0,0.5,2.75,0,0.3,32.5,0
+
+, Record: ,07/04/2020 09:38:00 PM,07/04/2020 09:55:00 PM,,4.54,,,4,49,,28.95,0,0.5,2.75,0,0.3,32.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2167066
+   Row: 21951
+   RawRow: 21951
+   Count: 18
+   RawRecord:
+,07/04/2020 09:12:00 PM,07/04/2020 09:28:00 PM,,4.45,,,75,107,,22.19,0,0.5,2.75,0,0.3,25.74,0
+
+, Record: ,07/04/2020 09:12:00 PM,07/04/2020 09:28:00 PM,,4.45,,,75,107,,22.19,0,0.5,2.75,0,0.3,25.74,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2171620
+   Row: 21997
+   RawRow: 21997
+   Count: 18
+   RawRecord:
+,07/04/2020 09:27:00 PM,07/04/2020 09:58:00 PM,,14.3,,,151,228,,35.96,0,0.5,2.75,6.12,0.3,45.63,0
+
+, Record: ,07/04/2020 09:27:00 PM,07/04/2020 09:58:00 PM,,14.3,,,151,228,,35.96,0,0.5,2.75,6.12,0.3,45.63,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2180719
+   Row: 22089
+   RawRow: 22089
+   Count: 18
+   RawRecord:
+,07/04/2020 09:39:15 PM,07/04/2020 09:52:32 PM,,2.2,,,239,140,,11,0.5,0.5,2.22,0,0.3,17.02,2.5
+
+, Record: ,07/04/2020 09:39:15 PM,07/04/2020 09:52:32 PM,,2.2,,,239,140,,11,0.5,0.5,2.22,0,0.3,17.02,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2189753
+   Row: 22180
+   RawRow: 22180
+   Count: 18
+   RawRecord:
+,07/04/2020 09:19:00 PM,07/04/2020 09:36:00 PM,,8.01,,,231,263,,21.54,0,0.5,4.2,0,0.3,29.04,2.5
+
+, Record: ,07/04/2020 09:19:00 PM,07/04/2020 09:36:00 PM,,8.01,,,231,263,,21.54,0,0.5,4.2,0,0.3,29.04,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2203310
+   Row: 22317
+   RawRow: 22317
+   Count: 18
+   RawRecord:
+,07/04/2020 09:33:00 PM,07/04/2020 10:11:00 PM,,13.72,,,188,238,,53.75,0,0.5,2.75,0,0.3,57.3,0
+
+, Record: ,07/04/2020 09:33:00 PM,07/04/2020 10:11:00 PM,,13.72,,,188,238,,53.75,0,0.5,2.75,0,0.3,57.3,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2212350
+   Row: 22408
+   RawRow: 22408
+   Count: 18
+   RawRecord:
+,07/04/2020 09:11:00 PM,07/04/2020 09:54:00 PM,,17.76,,,236,91,,41.65,0,0.5,2.75,6.12,0.3,51.32,0
+
+, Record: ,07/04/2020 09:11:00 PM,07/04/2020 09:54:00 PM,,17.76,,,236,91,,41.65,0,0.5,2.75,6.12,0.3,51.32,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2216919
+   Row: 22454
+   RawRow: 22454
+   Count: 18
+   RawRecord:
+,07/04/2020 09:59:08 PM,07/04/2020 10:16:19 PM,,3.42,,,159,213,,21.95,0,0.5,2.75,0,0.3,25.5,0
+
+, Record: ,07/04/2020 09:59:08 PM,07/04/2020 10:16:19 PM,,3.42,,,159,213,,21.95,0,0.5,2.75,0,0.3,25.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2275685
+   Row: 23049
+   RawRow: 23049
+   Count: 18
+   RawRecord:
+,07/04/2020 09:21:12 PM,07/04/2020 09:42:42 PM,,7.38,,,68,42,,35.95,0,0.5,2.75,0,0.3,39.5,0
+
+, Record: ,07/04/2020 09:21:12 PM,07/04/2020 09:42:42 PM,,7.38,,,68,42,,35.95,0,0.5,2.75,0,0.3,39.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2316352
+   Row: 23460
+   RawRow: 23460
+   Count: 18
+   RawRecord:
+,07/04/2020 09:06:35 PM,07/04/2020 09:15:45 PM,,2.76,,,163,246,,11.83,0,0.5,2.83,0,0.3,17.96,2.5
+
+, Record: ,07/04/2020 09:06:35 PM,07/04/2020 09:15:45 PM,,2.76,,,163,246,,11.83,0,0.5,2.83,0,0.3,17.96,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2320942
+   Row: 23506
+   RawRow: 23506
+   Count: 18
+   RawRecord:
+,07/04/2020 09:20:00 PM,07/04/2020 09:32:00 PM,,1.55,,,11,67,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+, Record: ,07/04/2020 09:20:00 PM,07/04/2020 09:32:00 PM,,1.55,,,11,67,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2325499
+   Row: 23552
+   RawRow: 23552
+   Count: 18
+   RawRecord:
+,07/04/2020 09:02:00 PM,07/04/2020 09:48:00 PM,,16.95,,,61,117,,45.65,0,0.5,2.75,0,0.3,49.2,0
+
+, Record: ,07/04/2020 09:02:00 PM,07/04/2020 09:48:00 PM,,16.95,,,61,117,,45.65,0,0.5,2.75,0,0.3,49.2,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2348131
+   Row: 23781
+   RawRow: 23781
+   Count: 18
+   RawRecord:
+,07/04/2020 09:40:28 PM,07/04/2020 09:49:16 PM,,2.1,,,162,224,,9.5,0.5,0.5,0.67,0,0.3,13.97,2.5
+
+, Record: ,07/04/2020 09:40:28 PM,07/04/2020 09:49:16 PM,,2.1,,,162,224,,9.5,0.5,0.5,0.67,0,0.3,13.97,2.5
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2357246
+   Row: 23873
+   RawRow: 23873
+   Count: 18
+   RawRecord:
+,07/01/2020 12:57:36 AM,07/01/2020 01:30:10 AM,,25.98,,,42,156,,88.21,0,0.5,0,12.24,0.3,101.25,0
+
+, Record: ,07/01/2020 12:57:36 AM,07/01/2020 01:30:10 AM,,25.98,,,42,156,,88.21,0,0.5,0,12.24,0.3,101.25,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2366327
+   Row: 23965
+   RawRow: 23965
+   Count: 18
+   RawRecord:
+,07/01/2020 12:58:00 AM,07/01/2020 01:27:00 AM,,7.66,,,68,61,,42.2,0,0.5,0,0,0.3,43,0
+
+, Record: ,07/01/2020 12:58:00 AM,07/01/2020 01:27:00 AM,,7.66,,,68,61,,42.2,0,0.5,0,0,0.3,43,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2397858
+   Row: 24283
+   RawRow: 24283
+   Count: 18
+   RawRecord:
+,07/01/2020 01:06:47 AM,07/01/2020 01:26:08 AM,,9.24,,,235,50,,46.2,0,0,0,0,0.3,46.5,0
+
+, Record: ,07/01/2020 01:06:47 AM,07/01/2020 01:26:08 AM,,9.24,,,235,50,,46.2,0,0,0,0,0.3,46.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2402408
+   Row: 24329
+   RawRow: 24329
+   Count: 18
+   RawRecord:
+,07/01/2020 01:20:41 AM,07/01/2020 01:28:35 AM,,1.7,,,151,75,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+, Record: ,07/01/2020 01:20:41 AM,07/01/2020 01:28:35 AM,,1.7,,,151,75,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2406965
+   Row: 24375
+   RawRow: 24375
+   Count: 18
+   RawRecord:
+,07/01/2020 01:08:00 AM,07/01/2020 01:37:08 AM,,14.38,,,193,63,,56.5,0,0.5,0,0,0.3,57.3,0
+
+, Record: ,07/01/2020 01:08:00 AM,07/01/2020 01:37:08 AM,,14.38,,,193,63,,56.5,0,0.5,0,0,0.3,57.3,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2452034
+   Row: 24830
+   RawRow: 24830
+   Count: 18
+   RawRecord:
+,07/01/2020 01:07:27 AM,07/01/2020 01:34:33 AM,,9.76,,,225,138,,48.4,0,0.5,0,0,0.3,49.2,0
+
+, Record: ,07/01/2020 01:07:27 AM,07/01/2020 01:34:33 AM,,9.76,,,225,138,,48.4,0,0.5,0,0,0.3,49.2,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2465636
+   Row: 24968
+   RawRow: 24968
+   Count: 18
+   RawRecord:
+,07/01/2020 01:46:00 AM,07/01/2020 02:08:00 AM,,15.15,,,88,18,,61.9,0,0.5,0,0,0.3,62.7,0
+
+, Record: ,07/01/2020 01:46:00 AM,07/01/2020 02:08:00 AM,,15.15,,,88,18,,61.9,0,0.5,0,0,0.3,62.7,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2483693
+   Row: 25151
+   RawRow: 25151
+   Count: 18
+   RawRecord:
+,07/01/2020 01:22:00 AM,07/01/2020 01:38:00 AM,,10.62,,,223,232,,36.16,0,0.5,0,12.24,0.3,49.2,0
+
+, Record: ,07/01/2020 01:22:00 AM,07/01/2020 01:38:00 AM,,10.62,,,223,232,,36.16,0,0.5,0,12.24,0.3,49.2,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2501718
+   Row: 25333
+   RawRow: 25333
+   Count: 18
+   RawRecord:
+,07/01/2020 01:18:00 AM,07/01/2020 01:44:00 AM,,19.31,,,231,51,,75.2,0,0.5,0,0,0.3,76,0
+
+, Record: ,07/01/2020 01:18:00 AM,07/01/2020 01:44:00 AM,,19.31,,,231,51,,75.2,0,0.5,0,0,0.3,76,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2582430
+   Row: 26150
+   RawRow: 26150
+   Count: 18
+   RawRecord:
+,07/01/2020 01:59:00 AM,07/01/2020 02:18:00 AM,,15.63,,,51,50,,64.6,0,0.5,0,0,0.3,65.4,0
+
+, Record: ,07/01/2020 01:59:00 AM,07/01/2020 02:18:00 AM,,15.63,,,51,50,,64.6,0,0.5,0,0,0.3,65.4,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2591421
+   Row: 26241
+   RawRow: 26241
+   Count: 18
+   RawRecord:
+,07/01/2020 01:15:23 AM,07/01/2020 01:54:22 AM,,10.23,,,24,225,,56.5,0,0.5,0,0,0.3,57.3,0
+
+, Record: ,07/01/2020 01:15:23 AM,07/01/2020 01:54:22 AM,,10.23,,,24,225,,56.5,0,0.5,0,0,0.3,57.3,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2613912
+   Row: 26469
+   RawRow: 26469
+   Count: 18
+   RawRecord:
+,07/01/2020 01:06:00 AM,07/01/2020 01:29:00 AM,,11.79,,,68,135,,47.68,0,0.5,0,6.12,0.3,54.6,0
+
+, Record: ,07/01/2020 01:06:00 AM,07/01/2020 01:29:00 AM,,11.79,,,68,135,,47.68,0,0.5,0,6.12,0.3,54.6,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2627515
+   Row: 26606
+   RawRow: 26606
+   Count: 18
+   RawRecord:
+,07/01/2020 01:46:00 AM,07/01/2020 02:14:00 AM,,17.35,,,63,50,,61.18,0,0.5,0,6.12,0.3,68.1,0
+
+, Record: ,07/01/2020 01:46:00 AM,07/01/2020 02:14:00 AM,,17.35,,,63,50,,61.18,0,0.5,0,6.12,0.3,68.1,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2699713
+   Row: 27336
+   RawRow: 27336
+   Count: 18
+   RawRecord:
+,07/01/2020 01:04:00 AM,07/01/2020 01:20:00 AM,,5.69,,,140,157,,35.2,0,0.5,0,0,0.3,36,0
+
+, Record: ,07/01/2020 01:04:00 AM,07/01/2020 01:20:00 AM,,5.69,,,140,157,,35.2,0,0.5,0,0,0.3,36,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2704263
+   Row: 27382
+   RawRow: 27382
+   Count: 18
+   RawRecord:
+,07/01/2020 01:44:00 AM,07/01/2020 01:57:00 AM,,1.3,,,225,61,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+, Record: ,07/01/2020 01:44:00 AM,07/01/2020 01:57:00 AM,,1.3,,,225,61,,14.95,0,0.5,2.75,0,0.3,18.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2744765
+   Row: 27791
+   RawRow: 27791
+   Count: 18
+   RawRecord:
+,07/01/2020 01:38:19 AM,07/01/2020 02:00:19 AM,,6.54,,,50,189,,35.2,0,0.5,0,0,0.3,36,0
+
+, Record: ,07/01/2020 01:38:19 AM,07/01/2020 02:00:19 AM,,6.54,,,50,189,,35.2,0,0.5,0,0,0.3,36,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2771665
+   Row: 28062
+   RawRow: 28062
+   Count: 18
+   RawRecord:
+,07/01/2020 01:31:26 AM,07/01/2020 01:58:32 AM,,12.12,,,112,169,,50.38,0,0.5,0,6.12,0.3,57.3,0
+
+, Record: ,07/01/2020 01:31:26 AM,07/01/2020 01:58:32 AM,,12.12,,,112,169,,50.38,0,0.5,0,6.12,0.3,57.3,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2776203
+   Row: 28108
+   RawRow: 28108
+   Count: 18
+   RawRecord:
+,07/01/2020 01:42:00 AM,07/01/2020 01:43:00 AM,,0.09,,,71,71,,51.1,0,0.5,0,0,0.3,51.9,0
+
+, Record: ,07/01/2020 01:42:00 AM,07/01/2020 01:43:00 AM,,0.09,,,71,71,,51.1,0,0.5,0,0,0.3,51.9,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2825375
+   Row: 28608
+   RawRow: 28608
+   Count: 18
+   RawRecord:
+,07/01/2020 01:38:00 AM,07/01/2020 02:05:00 AM,,18.98,,,254,226,,61.18,0,0.5,0,6.12,0.3,68.1,0
+
+, Record: ,07/01/2020 01:38:00 AM,07/01/2020 02:05:00 AM,,18.98,,,254,226,,61.18,0,0.5,0,6.12,0.3,68.1,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2860995
+   Row: 28970
+   RawRow: 28970
+   Count: 18
+   RawRecord:
+,07/01/2020 01:13:32 AM,07/01/2020 01:36:25 AM,,13.82,,,229,81,,59.2,0,0.5,0,0,0.3,60,0
+
+, Record: ,07/01/2020 01:13:32 AM,07/01/2020 01:36:25 AM,,13.82,,,229,81,,59.2,0,0.5,0,0,0.3,60,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2883440
+   Row: 29198
+   RawRow: 29198
+   Count: 18
+   RawRecord:
+,07/01/2020 01:37:31 AM,07/01/2020 01:55:27 AM,,11.43,,,258,207,,51.1,0,0.5,0,0,0.3,51.9,0
+
+, Record: ,07/01/2020 01:37:31 AM,07/01/2020 01:55:27 AM,,11.43,,,258,207,,51.1,0,0.5,0,0,0.3,51.9,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2906049
+   Row: 29427
+   RawRow: 29427
+   Count: 18
+   RawRecord:
+,07/01/2020 01:55:29 AM,07/01/2020 02:13:51 AM,,8.52,,,37,179,,42.2,0,0.5,0,0,0.3,43,0
+
+, Record: ,07/01/2020 01:55:29 AM,07/01/2020 02:13:51 AM,,8.52,,,37,179,,42.2,0,0.5,0,0,0.3,43,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2923533
+   Row: 29604
+   RawRow: 29604
+   Count: 18
+   RawRecord:
+,07/01/2020 01:25:00 AM,07/01/2020 01:50:00 AM,,19.34,,,137,38,,58.48,0,0.5,0,6.12,0.3,65.4,0
+
+, Record: ,07/01/2020 01:25:00 AM,07/01/2020 01:50:00 AM,,19.34,,,137,38,,58.48,0,0.5,0,6.12,0.3,65.4,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2928062
+   Row: 29650
+   RawRow: 29650
+   Count: 18
+   RawRecord:
+,07/01/2020 01:42:00 AM,07/01/2020 01:58:00 AM,,9.68,,,213,162,,39.58,0,0.5,0,6.12,0.3,46.5,0
+
+, Record: ,07/01/2020 01:42:00 AM,07/01/2020 01:58:00 AM,,9.68,,,213,162,,39.58,0,0.5,0,6.12,0.3,46.5,0
+
+Error: The conversion cannot be performed.
+    Text: ''
+    MemberName: PassengerCount
+    MemberType: System.Int32
+    TypeConverter: 'CsvHelper.TypeConversion.Int32Converter'
+IReader state:
+   ColumnCount: 18
+   CurrentIndex: 3
+   HeaderRecord:
+["VendorID","tpep_pickup_datetime","tpep_dropoff_datetime","passenger_count","trip_distance","RatecodeID","store_and_fwd_flag","PULocationID","DOLocationID","payment_type","fare_amount","extra","mta_tax","tip_amount","tolls_amount","improvement_surcharge","total_amount","congestion_surcharge"]
+IParser state:
+   ByteCount: 0
+   CharCount: 2946130
+   Row: 29833
+   RawRow: 29833
+   Count: 18
+   RawRecord:
+,07/01/2020 01:04:00 AM,07/01/2020 01:37:00 AM,,18.63,,,90,76,,53.08,0,0.5,0,6.12,0.3,60,0
+
+, Record: ,07/01/2020 01:04:00 AM,07/01/2020 01:37:00 AM,,18.63,,,90,76,,53.08,0,0.5,0,6.12,0.3,60,0
+
