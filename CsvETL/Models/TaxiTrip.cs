@@ -1,16 +1,21 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using CsvETL.Attributes;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CsvETL.Models;
 
-[Table("TaxiTrips")]
+[Table("taxi_trips")]
 public class TaxiTrip : ISpecificPreprocessing
 {
+
+    [CompositePart]
     [Column("tpep_pickup_datetime")]
     public DateTime TpepPickupDatetime { get; set; }
 
+    [CompositePart]
     [Column("tpep_dropoff_datetime")]
     public DateTime TpepDropoffDatetime { get; set; }
 
+    [CompositePart]
     [Column("passenger_count")]
     public int PassengerCount { get; set; }
 
@@ -18,7 +23,7 @@ public class TaxiTrip : ISpecificPreprocessing
     public decimal TripDistance { get; set; }
 
     [Column("store_and_fwd_flag")]
-    public string StoreAndFwdFlag { get; set; }
+    public string? StoreAndFwdFlag { get; set; }
 
     [Column("PULocationID")]
     public int PULocationID { get; set; }
@@ -34,16 +39,32 @@ public class TaxiTrip : ISpecificPreprocessing
 
     public Dictionary<string, Func<object, object>> GetPreprocessingRules()
     {
-        return new Dictionary<string, Func<object, object>>
-        {
-            { nameof(StoreAndFwdFlag), value =>
-                value is string str ? (str.Trim().ToUpper() == "Y" ? "Yes" : str.Trim().ToUpper() == "N" ? "No" : str) : value },
+        var preprocessingRules = new Dictionary<string, Func<object, object>>();
 
-            { nameof(TpepPickupDatetime), value =>
-                value is DateTime date ? TimeZoneInfo.ConvertTimeToUtc(date, TimeZoneInfo.FindSystemTimeZoneById("Eastern Standard Time")) : value },
-            { nameof(TpepDropoffDatetime), value =>
-                value is DateTime date ? TimeZoneInfo.ConvertTimeToUtc(date, TimeZoneInfo.FindSystemTimeZoneById("Eastern Standard Time")) : value }
-        };
+        var stringProperties = GetType().GetProperties()
+            .Where(p => p.PropertyType == typeof(string));
+        foreach (var property in stringProperties)
+        {
+            preprocessingRules[property.Name] = value =>
+                value is string str ? str.Trim() : value;
+        }
+
+        preprocessingRules[nameof(StoreAndFwdFlag)] = value =>
+            value is string str ?
+                (str.Trim().ToUpper() == "Y" ? "Yes" : str.Trim().ToUpper() == "N" ? "No" : str.Trim())
+                : value;
+
+        preprocessingRules[nameof(TpepPickupDatetime)] = value =>
+            value is DateTime date ?
+                TimeZoneInfo.ConvertTimeToUtc(date, TimeZoneInfo.FindSystemTimeZoneById("Eastern Standard Time"))
+                : value;
+
+        preprocessingRules[nameof(TpepDropoffDatetime)] = value =>
+            value is DateTime date ?
+                TimeZoneInfo.ConvertTimeToUtc(date, TimeZoneInfo.FindSystemTimeZoneById("Eastern Standard Time"))
+                : value;
+
+        return preprocessingRules;
     }
 }
 

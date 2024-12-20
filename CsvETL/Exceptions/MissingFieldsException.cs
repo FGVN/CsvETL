@@ -1,4 +1,6 @@
-﻿public class MissingFieldsException : Exception
+﻿namespace CsvETL.Exceptions;
+
+public class MissingFieldsException : Exception
 {
     public MissingFieldsException(string message) : base(message)
     {

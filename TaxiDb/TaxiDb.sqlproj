@@ -58,10 +58,9 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="TaxiTrips.sql" />
+    <Build Include="taxi_trips.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="taxiTripsIndexes.sql" />
-    <None Include="Staging.sql" />
+    <None Include="create_indexes.sql" />
   </ItemGroup>
 </Project>

@@ -1,11 +1,10 @@
 ﻿using CsvHelper.Configuration;
-using CsvToDbHelpers;
 
 namespace CsvETL.Helpers;
 
-public static class CsvMappingUtils
+public static class CsvMappingHelper
 {
-    public static ClassMap<T> CreateMap<T>()
+    public static ClassMap<T>? CreateMap<T>()
     {
         var columnMappings = AttributeHelper.GetColumnMappings<T>();
 
@@ -18,8 +17,7 @@ public static class CsvMappingUtils
         var map = new DefaultClassMap<T>();
         foreach (var kvp in columnMappings)
         {
-            map.Map(typeof(T), typeof(T).GetProperty(kvp.Key)).Name(kvp.Value);
-            Console.WriteLine($"Mapped {kvp.Key} to {kvp.Value}");
+            map.Map(typeof(T), typeof(T).GetProperty(kvp.Key)!).Name(kvp.Value);
         }
 
         return map;

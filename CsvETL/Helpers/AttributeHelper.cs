@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using CsvETL.Attributes;
+using CsvETL.Models;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
 using System.Reflection;
 
-namespace CsvToDbHelpers;
+namespace CsvETL.Helpers;
 
 public static class AttributeHelper
 {
@@ -18,31 +17,23 @@ public static class AttributeHelper
         return tableAttribute.Name;
     }
 
-    public static Dictionary<string, string?> GetColumnMappings<T>()
+    public static Dictionary<string, string> GetColumnMappings<T>()
     {
         return typeof(T).GetProperties()
             .Where(prop => prop.GetCustomAttribute<ColumnAttribute>() != null)
             .ToDictionary(
                 prop => prop.Name, 
-                prop => prop.GetCustomAttribute<ColumnAttribute>()?.Name 
+                prop => prop.GetCustomAttribute<ColumnAttribute>()!.Name! 
             );
     }
 
-    public static void ValidateCsvHeaders<T>(IEnumerable<string> csvHeaders)
+    public static string GenerateCompositeKey<T>(T record)
     {
-        var columnMappings = GetColumnMappings<T>();
-        var missingColumns = columnMappings.Values.Except(csvHeaders, StringComparer.OrdinalIgnoreCase).ToList();
-        var extraColumns = csvHeaders.Except(columnMappings.Values, StringComparer.OrdinalIgnoreCase).ToList();
+        var compositeKeyParts = typeof(T).GetProperties()
+            .Where(prop => Attribute.IsDefined(prop, typeof(CompositePartAttribute)))
+            .Select(prop => prop.GetValue(record)?.ToString() ?? string.Empty);
 
-        if (missingColumns.Any())
-        {
-            throw new InvalidOperationException($"The following columns are missing in the CSV file: {string.Join(", ", missingColumns)}");
-        }
-
-        if (extraColumns.Any())
-        {
-            Console.WriteLine($"Warning: The following extra columns are present in the CSV file but are not mapped: {string.Join(", ", extraColumns)}");
-        }
+        return string.Join("-", compositeKeyParts);
     }
 }
 
