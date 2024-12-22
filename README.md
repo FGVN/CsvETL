@@ -9,7 +9,7 @@ dotnet run <csv_file_path> [--connectionString <connection_string>] [--batchSize
 dotnet run "data/sample-cab-data.csv" --connectionString "Server=myserver;Database=TaxiDb;User Id=myuser;Password=mypassword;" --batchSize 500
 ```
 
-## The column count from the provided dataset: 29730
+## The column count from the provided dataset: 29840
 
 # Assumptions made
  - The input data may be randomly sorted.
