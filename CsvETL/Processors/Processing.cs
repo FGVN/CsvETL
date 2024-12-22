@@ -19,6 +19,7 @@ class Processing
     {
         var savedDups = await CsvHelperService.GetRecords<T>(duplicatesFilepath);
         var duplicates = new HashSet<string>(savedDups.Select(x => AttributeHelper.GenerateCompositeKey(x)));
+        var insertedDuplicates = new HashSet<string>();
 
         var validRecords = new List<T>();
         var faultyRecords = new List<string>();
@@ -54,9 +55,13 @@ class Processing
                 var compositeKey = AttributeHelper.GenerateCompositeKey(record);
 
                 if (duplicates.Contains(compositeKey))
-                    continue;
+                {
+                    if(insertedDuplicates.Contains(compositeKey))
+                        continue;
+                    else
+                        insertedDuplicates.Add(compositeKey);
+                }
 
-                duplicates.Add(compositeKey);
                 validRecords.Add(record);
 
                 if (validRecords.Count >= batchSize)
@@ -76,7 +81,7 @@ class Processing
             await InsertRecordsAsync(validRecords, connectionString, batchSize);
         }
 
-        Console.WriteLine("Sql load completed.");
+        Console.WriteLine("SQL load completed.");
     }
 
     private static async Task InsertRecordsAsync<T>(List<T> records, string connectionString, int batchSize)
